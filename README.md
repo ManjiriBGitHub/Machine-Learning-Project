@@ -1,4 +1,5 @@
 # Twitter Sentiment Analysis using NLP
+![Twitter](https://github.com/user-attachments/assets/c23c53e1-36d6-4846-8f92-a4aa05ad2f54)
 
 ## Introduction 
 
@@ -16,7 +17,7 @@ Importance of TWITTER SENTIMENTAL ANALYSIS:
 
 
 ## Objective 
-To perform Twitter sentiment analysis using machine learning algorithms, I will utilize the Sentiment140 dataset to analyze the sentiment of tweets. A machine learning pipeline will be developed, incorporating Logistic Regression as the classification algorithm. The goal is to classify tweets into positive or negative sentiments.
+To perform Twitter sentiment analysis using machine learning algorithms and Natural Language Processing . I will utilize the Sentiment140 dataset to analyze the sentiment of tweets. A machine learning pipeline will be developed, incorporating Logistic Regression as the classification algorithm. The goal is to classify tweets into positive or negative sentiments.
 
 
 ## Data Overview
